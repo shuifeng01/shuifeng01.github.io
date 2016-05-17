@@ -1,1 +1,1 @@
-﻿xxx&1.1&版本V1.1,测试&https://shuifeng01.github.io/test.apk
+﻿xxx&1.0&版本V1.0,测试&https://shuifeng01.github.io/test.apk
